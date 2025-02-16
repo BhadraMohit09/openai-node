@@ -57,7 +57,7 @@ async function main() {
 main();
 ```
 
-## Streaming responses
+#### Streaming responses
 
 We provide support for streaming responses using Server Sent Events (SSE).
 
