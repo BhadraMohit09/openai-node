@@ -20,7 +20,7 @@ To learn how to use the OpenAI API, check out our [API Reference](https://platfo
 npm install openai
 ```
 
-### Installation from JSR
+#### Installation from JSR
 
 ```sh
 deno add jsr:@openai/openai
