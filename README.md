@@ -82,7 +82,7 @@ main();
 
 If you need to cancel a stream, you can `break` from the loop or call `stream.controller.abort()`.
 
-### Chat Completion streaming helpers
+#### Chat Completion streaming helpers
 
 This library also provides several conveniences for streaming chat completions, for example:
 
