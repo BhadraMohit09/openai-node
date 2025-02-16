@@ -177,7 +177,7 @@ await client.files.create({
 });
 ```
 
-## Handling errors
+#### Handling errors
 
 When the library is unable to connect to the API,
 or if the API returns a non-success status code (i.e., 4xx or 5xx response),
