@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> We're actively working on a new alpha version that migrates from `node-fetch` to builtin fetch.
+> We're actively working on a new alpha version that migrates from `node-fetch` to builtin fetch...
 > 
 > Please try it out and let us know if you run into any issues!
 > https://community.openai.com/t/your-feedback-requested-node-js-sdk-5-0-0-alpha/1063774
