@@ -35,7 +35,7 @@ You can also [import directly from JSR](https://jsr.io/docs/using-packages#impor
 import OpenAI from 'jsr:@openai/openai';
 ```
 
-## Usage
+#### Usage
 
 The full API of this library can be found in [api.md file](api.md) along with many [code examples](https://github.com/openai/openai-node/tree/master/examples). The code below shows how to get started using the chat completions API.
 
