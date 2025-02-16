@@ -141,7 +141,7 @@ main();
 
 Documentation for each method, request param, and response field are available in docstrings and will appear on hover in most modern editors.
 
-## File uploads
+> #### File uploads
 
 Request parameters that correspond to file uploads can be passed in many different forms:
 
