@@ -1,4 +1,4 @@
-> ###[!IMPORTANT]  
+> [!IMPORTANT]  
 > We're actively working on a new alpha version that migrates from `node-fetch` to builtin fetch.
 > 
 > Please try it out and let us know if you run into any issues!!
@@ -14,7 +14,7 @@ It is generated from our [OpenAPI specification](https://github.com/openai/opena
 
 To learn how to use the OpenAI API, check out our [API Reference](https://platform.openai.com/docs/api-reference) and [Documentation](https://platform.openai.com/docs).
 
-#### Installation
+> #### Installation
 
 ```sh
 npm install openai
