@@ -4,6 +4,7 @@ import {
   Message,
   MessageContentDelta,
   Text,
+  TextFile,
   ImageFile,
   TextDelta,
   MessageDelta,
